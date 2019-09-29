@@ -1,4 +1,5 @@
 //Program By Tomjerry
+//created By Tomjerry
 
 print ("K0ENVERSI WAKTU")
 print ("masukkan pilihan anda =")
