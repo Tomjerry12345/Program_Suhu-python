@@ -1,4 +1,6 @@
-print ("K0ENVERSI WAKTU") //Andri alfiandi
+//Program By Tomjerry
+
+print ("K0ENVERSI WAKTU")
 print ("masukkan pilihan anda =")
 print ("1. DETIK KE MENIT")
 print ("2. DETIK KE JAM")
