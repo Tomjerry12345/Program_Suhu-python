@@ -34,4 +34,4 @@ elif pil == '6' :
     detik = float(jam)*3600
     print ("jadi",float(jam),"jam",float(detik),"detik")
 else :
-    print ("salah input ki kodong")
+    print ("goblok faqih")
