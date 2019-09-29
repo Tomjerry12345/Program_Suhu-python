@@ -1,4 +1,4 @@
-print ("K0ENVERSI WAKTU")
+print ("K0ENVERSI WAKTU") //Andri alfiandi
 print ("masukkan pilihan anda =")
 print ("1. DETIK KE MENIT")
 print ("2. DETIK KE JAM")
